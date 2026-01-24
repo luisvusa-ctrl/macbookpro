@@ -1,4 +1,4 @@
-CS2 Full External Cheat (Only Reads Memory)
+Full External Cheat (Only Reads Memory)
 
 I also want to add custom colors for visible / no visible.
 
