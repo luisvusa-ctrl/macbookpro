@@ -3,7 +3,7 @@ CS2 Full External Cheat (Only Reads Memory)
 I also want to add custom colors for visible / no visible.
 
 Features >
--------------------------------------------------------------------------------------------------------------
+
 
 // ENEMY ESP //
 
@@ -16,9 +16,9 @@ Features >
 //ENEMY ESP // Need to add
 
 -Ammo Bar
--Flags (C4 ,BLIND,SHIFT,LETHAL,DEFUSING , RELOADING)
+-Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
 -Snaplines
--------------------------------------------------------------------------------------------------------------
+
 
 // TEAM ESP //
 
@@ -30,10 +30,10 @@ Features >
 -Flags (MONEY,HK,ZOOM)
 -Health Bar
 -Ammo Bar
--Flags (C4 ,BLIND,SHIFT,LETHAL,DEFUSING , RELOADING)
+-Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING ,RELOADING)
 -Snaplines
 
--------------------------------------------------------------------------------------------------------------
+
 
 // AIM //
 
@@ -44,7 +44,7 @@ Features >
 -RCS
 -Backtrack
 
--------------------------------------------------------------------------------------------------------------
+
 
 // MISC And VISUALS //
 
