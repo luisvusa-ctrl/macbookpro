@@ -1,6 +1,6 @@
 CS2 Full External Cheat (Only Reads Memory)
 
-I also want to add custom colors for visible / no visilbe.
+I also want to add custom colors for visible / no visible.
 
 Features >
 -------------------------------------------------------------------------------------------------------------
