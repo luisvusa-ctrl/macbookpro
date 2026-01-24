@@ -14,10 +14,10 @@ Features >
 - Skeleton
 - Flags (MONEY,HK,ZOOM)
 - Health Bar
+- Ammo Bar
 
 //ENEMY ESP // Need to add
 
-- Ammo Bar
 - Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
 - Snaplines
 -------------------------------------------------------------------------------------------------------------
