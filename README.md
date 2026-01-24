@@ -2,65 +2,64 @@ CS2 Full External Cheat (Only Reads Memory)
 
 I also want to add custom colors for visible / no visible.
 
+-------------------------------------------------------------------------------------------------------------
+
 Features >
 
 
 // ENEMY ESP //
 
--Enemy Name
--Enemy Weapon Name/Icon
--Skeleton
--Flags (MONEY,HK,ZOOM)
--Health Bar
+- Enemy Name
+- Enemy Weapon Name/Icon
+- Skeleton
+- Flags (MONEY,HK,ZOOM)
+- Health Bar
 
 //ENEMY ESP // Need to add
 
--Ammo Bar
--Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
--Snaplines
-
-
+- Ammo Bar
+- Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
+- Snaplines
+-------------------------------------------------------------------------------------------------------------
 // TEAM ESP //
 
 //TEAM ESP // Need to add
 
--Enemy Name
--Enemy Weapon Name/Icon
--Skeleton
--Flags (MONEY,HK,ZOOM)
--Health Bar
--Ammo Bar
--Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING ,RELOADING)
--Snaplines
-
-
-
+- Enemy Name
+- Enemy Weapon Name/Icon
+- Skeleton
+- Flags (MONEY,HK,ZOOM)
+- Health Bar
+- Ammo Bar
+- Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING ,RELOADING)
+- Snaplines
+-------------------------------------------------------------------------------------------------------------
 // AIM //
 
 // AIM // Need to add
 
--Aimbot
--Triggerbot
--RCS
--Backtrack
+- Aimbot
+- Triggerbot
+- RCS
+- Backtrack
 
-
-
+-------------------------------------------------------------------------------------------------------------
 // MISC And VISUALS //
 
--Bomb Timer
+- Bomb Timer
 
 // MISC // Need to add
 
--Bunny Hop
--Spread Circle
--Recoil Circle
--Sniper Crosshair
--Spectator List
--Grenade Warning/Prediction/Trajectory
--Dropped Weapon
+- Bunny Hop
+- Spread Circle
+- Recoil Circle
+- Sniper Crosshair
+- Spectator List
+- Grenade Warning/Prediction/Trajectory
+- Dropped Weapon
 - Hitmarker World/Screen
--Out of fov Arrows
--Radar
+- Out of fov Arrows
+- Radar
 
 -------------------------------------------------------------------------------------------------------------
+
