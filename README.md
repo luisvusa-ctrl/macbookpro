@@ -20,6 +20,7 @@ Features >
 
 - Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
 - Snaplines
+- Sound ESP
 -------------------------------------------------------------------------------------------------------------
 // TEAM ESP //
 
@@ -33,6 +34,7 @@ Features >
 - Ammo Bar
 - Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING ,RELOADING)
 - Snaplines
+- Sound ESP
 -------------------------------------------------------------------------------------------------------------
 // AIM //
 
