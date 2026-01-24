@@ -1,0 +1,12 @@
+{
+  "BombTimer": true,
+  "EspAimCrosshair": true,
+  "EspBox": true,
+  "EspHealthBar": true,
+  "EspPlayerName": true,
+  "SkeletonEsp": true,
+  "TeamCheck": true,
+  "EspFlags": true,
+  "EspAmmoBar": true,
+  "EspWeapon": true
+}
