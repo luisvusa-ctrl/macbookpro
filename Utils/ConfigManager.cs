@@ -1,0 +1,67 @@
+using System.IO;
+using System.Text.Json;
+
+namespace CS2Cheat.Utils;
+
+public class ConfigManager
+{
+    private const string ConfigFile = "config.json";
+    public bool BombTimer { get; set; }
+    public bool EspAimCrosshair { get; set; }
+    public bool EspBox { get; set; }
+    public bool EspHealthBar { get; set; }   
+    public bool EspPlayerName { get; set; }  
+    public bool SkeletonEsp { get; set; }
+    public bool TeamCheck { get; set; }
+    public bool EspFlags { get; set; }
+
+    public bool EspWeapon { get; set; }
+
+
+
+    public static ConfigManager Load()
+    {
+        try
+        {
+            if (!File.Exists(ConfigFile))
+            {
+                var defaultOptions = Default();
+                Save(defaultOptions);
+                return defaultOptions;
+            }
+
+            var json = File.ReadAllText(ConfigFile);
+            return JsonSerializer.Deserialize<ConfigManager>(json, new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true
+            }) ?? Default();
+        }
+        catch (JsonException) { return Default(); }
+    }
+
+    public static void Save(ConfigManager options)
+    {
+        try
+        {
+            var json = JsonSerializer.Serialize(options, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(ConfigFile, json);
+        }
+        catch { }
+    }
+
+    public static ConfigManager Default()
+    {
+        return new ConfigManager
+        {
+            BombTimer = true,
+            EspAimCrosshair = false,
+            EspBox = true,
+            EspHealthBar = true,    // <-- ADICIONADO
+            EspPlayerName = true,   // <-- ADICIONADO
+            SkeletonEsp = false,
+            TeamCheck = true,
+            EspFlags = true,
+            EspWeapon = true,
+        };
+    }
+}
