@@ -17,11 +17,11 @@ Features >
 - Ammo Bar
 - Sound ESP
 - Chams
+- Snaplines
 
 //ENEMY ESP // Need to add
 
 - Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
-- Snaplines
 -------------------------------------------------------------------------------------------------------------
 // TEAM ESP //
 
