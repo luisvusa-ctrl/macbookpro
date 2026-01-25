@@ -15,12 +15,13 @@ Features >
 - Flags (MONEY,HK,ZOOM)
 - Health Bar
 - Ammo Bar
+- Sound ESP
 
 //ENEMY ESP // Need to add
 
 - Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
 - Snaplines
-- Sound ESP
+- Chams
 -------------------------------------------------------------------------------------------------------------
 // TEAM ESP //
 
@@ -35,6 +36,7 @@ Features >
 - Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING ,RELOADING)
 - Snaplines
 - Sound ESP
+- Chams
 -------------------------------------------------------------------------------------------------------------
 // AIM //
 
