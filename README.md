@@ -19,7 +19,7 @@ Features >
 
 //ENEMY ESP // Need to add
 
-- Flags (C4,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
+- Flags (C4,KIT,BLIND,SHIFT,LETHAL,DEFUSING,RELOADING)
 -------------------------------------------------------------------------------------------------------------
 // AIM //
 
