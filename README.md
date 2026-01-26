@@ -8,7 +8,7 @@ Features >
 // ENEMY ESP //
 
 - Enemy Name
-- Enemy Weapon Name/Icon
+- Enemy Weapon Name and Icon
 - Skeleton
 - Flags (MONEY,HK,ZOOM)
 - Health Bar
