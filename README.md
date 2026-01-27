@@ -14,7 +14,6 @@ Features >
 - Health Bar
 - Ammo Bar
 - Sound ESP
-- Chams
 - Snaplines
 
 //ENEMY ESP // Need to add
